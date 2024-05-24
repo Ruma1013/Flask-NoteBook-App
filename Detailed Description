@@ -1,0 +1,21 @@
+# Flask Notebook App
+
+## Description
+This is a simple Notebook application developed using Python Flask for the backend and HTML along with Bootstrap CSS for the frontend. The application allows users to perform basic CRUD (Create, Read, Update, Delete) operations on notes.
+
+## Features
+- Add new notes
+- View all notes
+- Update existing notes
+- Delete notes
+
+## Technologies Used
+- Python Flask
+- HTML
+- Bootstrap CSS
+
+## Setup Instructions
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ruma1013/flask-notebook-app.git
+   cd flask-notebook-app
